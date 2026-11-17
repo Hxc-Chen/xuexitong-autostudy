@@ -1,1 +1,8 @@
-﻿{"v":"1.0.10"}
+{
+  "v": "1.0.20",
+  "date": "2026-11-17",
+  "repository": "https://github.com/DaRin1403/xuexitong-autostudy",
+  "upstream": "https://github.com/DaRin1403/xuexitong-autostudy",
+  "forkedFrom": "https://github.com/ZhangYHhhhhhh/xuexitong-autostudy",
+  "referenceFork": "https://github.com/cq-eng/xuexitong-autostudy"
+}

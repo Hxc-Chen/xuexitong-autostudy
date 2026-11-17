@@ -1,0 +1,27 @@
+{
+  "source": "Original synthetic regression material. No real course, student, or account data; HTML structures are constructed by the tests.",
+  "title": "Learning from a Community Workshop",
+  "matchingPassage": "Learning from a Community Workshop\n\n1 A small community opened a workshop with a shared set of tools. The benches were strong, but visitors could not always find the equipment they needed. __________ The team answered this question by putting clear labels on drawers and arranging tools near the tasks that used them.\n\n2 After a weekend trial, visitors stopped wasting time looking for equipment. __________ People began inviting their neighbours, and the organisers added an extra opening session.\n\n3 Why did the simple changes work in several different rooms? __________ Watching how people actually used the space revealed problems that a floor plan had not shown.\n\n4 The organisers called this approach careful observation. __________ Instead of buying every new tool, the group first studied what its existing equipment could do. They wrote down useful suggestions and tried them on a small scale.\n\n5 A new volunteer asked where to begin when planning the next activity. __________ Each object could suggest a different practical exercise. The volunteer made a list, compared the ideas with available materials, and selected a short activity that everyone could join.",
+  "left": [
+    { "id": "1", "text": "Explore the shelves, benches and toolboxes." },
+    { "id": "2", "text": "The workshop soon became a popular meeting place." },
+    { "id": "3", "text": "How could we make the tools easier to share?" },
+    { "id": "4", "text": "It is a method that turns small observations into useful experiments." },
+    { "id": "5", "text": "Whatever room you improve, observing its users can provide new ideas." }
+  ],
+  "right": [
+    { "id": "A", "text": "Blank A" },
+    { "id": "B", "text": "Blank B" },
+    { "id": "C", "text": "Blank C" },
+    { "id": "D", "text": "Blank D" },
+    { "id": "E", "text": "Blank E" }
+  ],
+  "readingPassage": "A community library opened a workshop where residents can borrow tools and learn practical skills. It is the first shared workshop in the neighbourhood. Three mobile stations supplement the fixed benches. Their distinctive feature is that they can be moved between rooms. Clear labels make tools easier to locate than before. A notice board also allows visitors to ask volunteers for help. The project created two paid coordinator roles, increased volunteer activity, and helped residents repair useful objects instead of replacing them.",
+  "readingQuestions": [
+    { "id": 1, "stem": "What does the new workshop provide for the neighbourhood?", "options": ["A private storage unit.", "A shop selling only new tools.", "A closed training centre.", "Its first shared place for tools and practical skills."] },
+    { "id": 2, "stem": "What makes the three mobile stations different from the fixed benches?", "options": ["They have no labels.", "They are outdoors.", "They can move between rooms.", "They cannot hold tools."] },
+    { "id": 3, "stem": "What benefit do the clear labels provide?", "options": ["Tools are easier to locate.", "The building is larger.", "Every tool is new.", "The workshop opens all night."] },
+    { "id": 4, "stem": "How can visitors use the notice board?", "options": ["To order a new building.", "To replace the benches.", "To lock the toolboxes.", "To request help from volunteers."] },
+    { "id": 5, "stem": "Which statement about the workshop is NOT supported by the passage?", "options": ["It created coordinator roles.", "It reduced opportunities for volunteering.", "It supports repairs.", "It allows tool borrowing."] }
+  ]
+}

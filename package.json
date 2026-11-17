@@ -1,0 +1,20 @@
+{
+  "name": "xuexitong-autostudy",
+  "private": true,
+  "scripts": {
+    "test": "node --test tests/*.test.cjs",
+    "check": "node --check 学习通刷课助手.user.js && node tools/embed-font-deps.cjs --check",
+    "build:fonts": "node tools/embed-font-deps.cjs",
+    "pack:release": "python tools/package-release.py"
+  },
+  "devDependencies": {
+    "jsdom": "26.1.0"
+  },
+  "version": "1.0.20",
+  "description": "学习通课程辅助用户脚本与离线回归测试",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DaRin1403/xuexitong-autostudy.git"
+  },
+  "license": "MIT"
+}

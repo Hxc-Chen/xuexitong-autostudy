@@ -1,0 +1,14 @@
+{
+  "snapshot": "local fork 1.0.19",
+  "sourceSha256": "35cf823f5cd0b8470bc4895014b88dde497f0e860438d7757e0efd593b02bc80",
+  "file": "font-deps.js",
+  "sha256": "a3c16ecca25811aa63dcbb0476bcc858a8f4479c96a728e15b5a7a43e481dd24",
+  "fontTableVersion": "20220515.1",
+  "fingerprints": 20902,
+  "origins": [
+    "https://cdn.jsdelivr.net/gh/lyjx29/xiaoai-chaoxing@main/src/vendor_typr.js",
+    "https://cdn.jsdelivr.net/npm/blueimp-md5@2.19.0/js/md5.min.js",
+    "https://cdn.ocsjs.com/resources/font/table.json"
+  ],
+  "sourceRepository": "https://github.com/cq-eng/xuexitong-autostudy"
+}

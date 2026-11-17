@@ -1,0 +1,157 @@
+{
+  "version": "1.0.20",
+  "date": "2026-11-17",
+  "repository": "https://github.com/DaRin1403/xuexitong-autostudy",
+  "target": "upstream",
+  "upstream": "https://github.com/DaRin1403/xuexitong-autostudy",
+  "forkedFrom": "https://github.com/ZhangYHhhhhhh/xuexitong-autostudy",
+  "referenceFork": "https://github.com/cq-eng/xuexitong-autostudy",
+  "archiveRoot": "xuexitong-autostudy-v1.0.20-upstream-pr",
+  "contents": [
+    {
+      "path": ".gitignore",
+      "bytes": 495,
+      "sha256": "203b6da029410df5de1b06d2aee12131b21d0d5113364e4242fd596651df69e8"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "bytes": 7033,
+      "sha256": "9873bd869000264ad587b6084602e6bf643551f5d084be3e0252aa157357faf1"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1083,
+      "sha256": "5841a5b9f04a1c337f3e8b8e3994205c662f8823439619e90f22fd7c7fc2a62d"
+    },
+    {
+      "path": "README.md",
+      "bytes": 12470,
+      "sha256": "7b1110dc14d812c27206bb390c5590b1aa785cf1865294478d51d83af34e96ae"
+    },
+    {
+      "path": "docs/PR正文.md",
+      "bytes": 3167,
+      "sha256": "559dfa588f2eef9edccc66e6b6ad0611231285e74f6801a3d74ec057e9556c4f"
+    },
+    {
+      "path": "docs/fork优化实施与验证.md",
+      "bytes": 4408,
+      "sha256": "489de28a928eb9943396c6e98a3a55a6d4de1d18431df6eb5eecebd2e3fa8514"
+    },
+    {
+      "path": "docs/get-api-key.md",
+      "bytes": 5250,
+      "sha256": "1bc10d84a13986aafc1466ce4d5876fd2ca740ddadb27bde231ccc161ea9993e"
+    },
+    {
+      "path": "docs/上游PR说明.md",
+      "bytes": 2891,
+      "sha256": "57ffe864e62bdc934967c0e6c1cdfd9642b96b7947d5f3ba8c550318b00a3ff3"
+    },
+    {
+      "path": "docs/发布与验证.md",
+      "bytes": 3868,
+      "sha256": "44889740b1aa4888111a92d04afc859c8d7c502efcdfc40d3f42d9b7acb262d4"
+    },
+    {
+      "path": "docs/模块-练题自测.md",
+      "bytes": 7106,
+      "sha256": "043e005e7441a87c1ddf11da7aa05523fb7ee94300a0d51fdafbbec4d3832121"
+    },
+    {
+      "path": "docs/模块-自动答题.md",
+      "bytes": 13685,
+      "sha256": "b4d8aaddee87ce22bb0f814f2bbe7b0ef5232eb8824801a099e788b4e2b5e5cc"
+    },
+    {
+      "path": "package-lock.json",
+      "bytes": 18635,
+      "sha256": "7a949cb74db685a337d1324ac496b424e6058facf9e86a23955f22c2d67da60a"
+    },
+    {
+      "path": "package.json",
+      "bytes": 603,
+      "sha256": "a7beffd0bfa35ece1a89f139de9d2d3d16043ab8bbe780962e1c484282e026cf"
+    },
+    {
+      "path": "tests/fixtures/synthetic-questions.json",
+      "bytes": 3741,
+      "sha256": "31ed197931249895ada9be4174300d55149ca185ed04247436ac8ac4cf53a5f0"
+    },
+    {
+      "path": "tests/fixtures/vision-sample.png",
+      "bytes": 6978,
+      "sha256": "7063bccbc744e1fe73adbc998a76e479f6a08b2de00adbf0c9e9cee8ab3c5da1"
+    },
+    {
+      "path": "tests/fork-improvements.test.cjs",
+      "bytes": 20484,
+      "sha256": "70af3197bcc10bcd3d16c60027df743142800b6f3ac395a08c11d48c4944fbff"
+    },
+    {
+      "path": "tests/issues-regression.test.cjs",
+      "bytes": 68720,
+      "sha256": "becb2cc9826315eaec243f255605a1a048af4e1cdb0dad78f5e85ee2053d2be8"
+    },
+    {
+      "path": "tools/embed-font-deps.cjs",
+      "bytes": 2834,
+      "sha256": "ab8db5271ffc1384a92d93f54758191f27ce71ec30fa5676d240003ebe2c4d51"
+    },
+    {
+      "path": "tools/package-release.py",
+      "bytes": 12120,
+      "sha256": "f02d716802b32bd7b8a63983e010decc0c24d63de1edf48a68cf47b779e134de"
+    },
+    {
+      "path": "tools/自检-答题记录检查.js",
+      "bytes": 5515,
+      "sha256": "6137cd02bdf4d78771bc32b61dab4e21e53dd8ed59d548fa6eabfe09d87649a5"
+    },
+    {
+      "path": "tools/诊断-视觉接口.cjs",
+      "bytes": 6200,
+      "sha256": "d70d64ae46317f4fdd7b9b9ad38a2257acd8daa8141d91d25c61d5deb722fc32"
+    },
+    {
+      "path": "vendor/NOTICE.md",
+      "bytes": 1580,
+      "sha256": "502dbbdbdd0b5aff2d11f08b38702cb614e4c5af212aa75459c5c4613c66d51a"
+    },
+    {
+      "path": "vendor/font-deps.js",
+      "bytes": 446569,
+      "sha256": "a3c16ecca25811aa63dcbb0476bcc858a8f4479c96a728e15b5a7a43e481dd24"
+    },
+    {
+      "path": "vendor/font-deps.lock.json",
+      "bytes": 587,
+      "sha256": "7b61270bca3c7b48fe8b21abc6a44c3be71a59492036a4ec8d94e6758109a84a"
+    },
+    {
+      "path": "version.json",
+      "bytes": 318,
+      "sha256": "2b0d8e9d2b3607526e5806d468d62374d22187f060da1addf63ead8947c2f4bf"
+    },
+    {
+      "path": "学习通刷课助手.user.js",
+      "bytes": 628515,
+      "sha256": "fc47811a173d716ce3f03fc0f3378828e8f962d3d0f520b78e612afc36c61b1f"
+    }
+  ],
+  "excluded": [
+    "api key.txt / other credentials / .env files",
+    "Issues.txt / raw runtime logs / personal question exports and originals",
+    "tests/fixtures/issues-2026-11-17.json (real course fixture)",
+    "node_modules / .npm-cache / .git / .release-check / dist",
+    "chaoxingAuto-main local reference checkout",
+    "xuexitong-autostudy-folk local reference snapshot and historical comparison probes",
+    "docs/Issues修复记录*.md (local investigation notes; public summary is CHANGELOG.md)"
+  ],
+  "notes": [
+    "Manifest does not include its own hash.",
+    "Run npm ci --ignore-scripts, npm test and npm run check after extracting.",
+    "Synthetic fixtures replace the private course material.",
+    "Packaging does not publish to GitHub."
+  ]
+}
